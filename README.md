@@ -1,6 +1,6 @@
 ## README for Axion Form Factors Data
 
-This repository provides the axion form factors A and B for the KSZV and DFSZ axion models. The data is available in `.txt` files, where each row corresponds to a specific combination of nucleon densities, momenta, and axion energies. Below, we describe the contents of the files and how the data is organized.
+This repository provides the axion form factors A and B for the KSZV and DFSZ models at finite nuclear density. The data is available in `.txt` format, where each row corresponds to a combination of nucleon densities, momenta, and axion energies. Below, we describe the contents of the files and how the data is organized.
 
 
 ## Files Provided

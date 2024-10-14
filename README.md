@@ -47,7 +47,7 @@ The form factors are provided by varying five key parameters in the following or
 
 ## Usage
 
-To efficiently read the values and understand the data, iterate over the columns in the order of the six varying parameters listed above. Each row in the files provides the form factors for one specific combination of these parameters. 
+To efficiently read in the values and understand the data, iterate over the columns in the order of the six varying parameters listed above. Each row in the files provides the form factors for one specific combination of these parameters. 
 
 For precise scientific use, ensure that you account for both the mean values and the error bands of the form factors.
 

@@ -54,5 +54,8 @@ For precise scientific use, ensure to account for both the mean values and the e
 
 ## Citation
 
-If you use this data in your research, cite the corresponding publication.
+If you use this data for your research, cite https://arxiv.org/abs/2410.10945.
+
+
+
 
